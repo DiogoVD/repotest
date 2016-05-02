@@ -1,1 +1,4 @@
+posicionar a gem na gemfile
+bundle install --without production (instala  o heroku no c9)
+sudo su
 git push heroku master
